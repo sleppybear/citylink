@@ -17,6 +17,7 @@
 <div class="container text-center">
     <div class="row justify-content-center py-5">
         <div class="col-sm-8 col-md-6 col-lg-4">
+            @include('source')
             @include('test1')
             @include('test2')
         </div>
